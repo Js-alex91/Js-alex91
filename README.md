@@ -1,6 +1,6 @@
 ### Hola!
 # Soy Jonatan Alexis Severo
-## Full Stack PHP Web Developer
+## Full Stack Web Developer
 ### Con pasión por el aprendizaje.
 
 
